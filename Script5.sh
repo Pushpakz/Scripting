@@ -1,6 +1,6 @@
 #!/bin/sh
 #This script is to make variable read only, means we cannot set the value of NAME variable again
-NAME=Young-Minds
+NAME=class-Minds
 readonly NAME
-NAME=DEVOPS
+NAME=aws
 echo "my name is: $NAME"
